@@ -22,11 +22,11 @@ We are dedicated to:
 
 ## 🤖 Repository Contents
 
-*Note: This section will be updated as we add more resources and tools to our repository.*
+*Note: This section will be updated as we add resources and tools to our repository.*
 
 ## 📖 Getting Started
 
-*Documentation for specific tools and resources will be added as they become available.*
+*Documentation for specific tools and resources will be included with each project.*
 
 ## 🤝 Contributing
 
@@ -34,11 +34,11 @@ We welcome contributions from the community! Whether you're a developer, educato
 
 ## 📫 Connect With Us
 
-*Contact information and social media links will be added soon.*
+*team@ai4altruism.org*
 
 ## 📜 License
 
-*License information will be added with our first code release.*
+*License information will be included with each project.*
 
 ---
 
