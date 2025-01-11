@@ -43,3 +43,5 @@ We welcome contributions from the community! Whether you're a developer, educato
 ---
 
 **Help us advance responsible uses of artificial intelligence for the benefit of humanity.**
+
+*Please donate.  Visit https://ai4altruism.org for more information.*
