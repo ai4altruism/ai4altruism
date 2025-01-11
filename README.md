@@ -32,15 +32,15 @@ We are dedicated to:
 
 We welcome contributions from the community! Whether you're a developer, educator, or AI enthusiast, there are many ways to get involved. Keep an eye on this space for our contributing guidelines.
 
-## 📫 Connect With Us
-
-*team@ai4altruism.org*
-
 ## 📜 License
 
 *License information will be included with each project.*
 
 ---
+
+## 📫 Connect With Us
+
+*team@ai4altruism.org*
 
 **Help us advance responsible uses of artificial intelligence for the benefit of humanity.**
 
