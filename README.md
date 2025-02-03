@@ -2,11 +2,11 @@
 
 ## Revolutionizing AI for Altruistic Impact
 
-AI for Altruism (A4A) is a nonprofit organization dedicated to harnessing the transformative power of artificial intelligence to enable nonprofits and empower underserved communities. Our mission is to provide technical and financial assistance that enables organizations to adopt AI solutions for the betterment of humanity—enhancing education, healthcare, environmental conservation, economic opportunity, and social equity.
+AI for Altruism (A4A) is a nonprofit organization dedicated to harnessing the transformative power of artificial intelligence to enable nonprofits and empower underserved communities. Our mission is to provide technical and financial assistance that enables organizations to adopt AI solutions for the betterment of humanity—enhancing education, healthcare, environmental conservation, economic opportunity, and social equity
 
 ## 🌟 Our Vision
 
-We envision a future where AI technology bridges gaps in opportunity, bringing innovative solutions to the most pressing challenges. Through strategic partnerships and accessible AI resources, A4A ensures that AI benefits extend to all, fostering a more equitable, sustainable, and inclusive world.
+We envision a future where AI technology bridges gaps in opportunity, bringing innovative solutions to the most pressing challenges. Through strategic partnerships and accessible AI resources, A4A ensures that AI benefits extend to all, fostering a more equitable, sustainable, and inclusive world
 
 ## 💻 Open Source Commitment
 
